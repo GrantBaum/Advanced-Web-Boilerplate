@@ -1,0 +1,12 @@
+/* this should be the ID of your element */
+example {
+    text-align: center;
+    text-decoration: underline;
+    background-color: blue;
+}
+/* this is a non example. it controls the header */
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
